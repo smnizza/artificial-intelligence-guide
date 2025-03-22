@@ -3,7 +3,10 @@
 This repository contains a collection of guides for various artificial intelligence methods, implemented in Jupyter Notebooks using Google Colab. Each notebook provides explanations and practical examples of the corresponding method.
 
 ## 📌 Included Methods
-- asd
+- Expert Systems
+- Fuzzy Logic
+- Genetic Algorithms
+- Rule-Based Systems
 
 ## 🚀 Getting Started
 Follow these steps to get started with this repository:
